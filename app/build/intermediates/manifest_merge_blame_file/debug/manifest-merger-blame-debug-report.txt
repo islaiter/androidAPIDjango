@@ -1,0 +1,99 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.pelis_api_kotlin"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="29"
+8-->C:\Users\dam2\AndroidStudioProjects\PELIS_API_KOTLIN\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\dam2\AndroidStudioProjects\PELIS_API_KOTLIN\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\dam2\AndroidStudioProjects\PELIS_API_KOTLIN\app\src\main\AndroidManifest.xml:4:5-66
+11-->C:\Users\dam2\AndroidStudioProjects\PELIS_API_KOTLIN\app\src\main\AndroidManifest.xml:4:22-64
+12
+13    <application
+13-->C:\Users\dam2\AndroidStudioProjects\PELIS_API_KOTLIN\app\src\main\AndroidManifest.xml:5:5-26:19
+14        android:allowBackup="true"
+14-->C:\Users\dam2\AndroidStudioProjects\PELIS_API_KOTLIN\app\src\main\AndroidManifest.xml:7:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.7.0] C:\Users\dam2\.gradle\caches\transforms-3\adacc4bbdca3c037c01e5031782c646c\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:extractNativeLibs="false"
+18        android:icon="@mipmap/ic_launcher"
+18-->C:\Users\dam2\AndroidStudioProjects\PELIS_API_KOTLIN\app\src\main\AndroidManifest.xml:8:9-43
+19        android:label="@string/app_name"
+19-->C:\Users\dam2\AndroidStudioProjects\PELIS_API_KOTLIN\app\src\main\AndroidManifest.xml:9:9-41
+20        android:roundIcon="@mipmap/ic_launcher_round"
+20-->C:\Users\dam2\AndroidStudioProjects\PELIS_API_KOTLIN\app\src\main\AndroidManifest.xml:10:9-54
+21        android:supportsRtl="true"
+21-->C:\Users\dam2\AndroidStudioProjects\PELIS_API_KOTLIN\app\src\main\AndroidManifest.xml:11:9-35
+22        android:testOnly="true"
+23        android:theme="@style/Theme.PELIS_API_KOTLIN"
+23-->C:\Users\dam2\AndroidStudioProjects\PELIS_API_KOTLIN\app\src\main\AndroidManifest.xml:12:9-54
+24        android:usesCleartextTraffic="true" >
+24-->C:\Users\dam2\AndroidStudioProjects\PELIS_API_KOTLIN\app\src\main\AndroidManifest.xml:6:9-44
+25        <activity
+25-->C:\Users\dam2\AndroidStudioProjects\PELIS_API_KOTLIN\app\src\main\AndroidManifest.xml:13:9-21:20
+26            android:name="com.example.pelis_api_kotlin.activityLogin"
+26-->C:\Users\dam2\AndroidStudioProjects\PELIS_API_KOTLIN\app\src\main\AndroidManifest.xml:14:13-42
+27            android:exported="true" >
+27-->C:\Users\dam2\AndroidStudioProjects\PELIS_API_KOTLIN\app\src\main\AndroidManifest.xml:15:13-36
+28            <intent-filter>
+28-->C:\Users\dam2\AndroidStudioProjects\PELIS_API_KOTLIN\app\src\main\AndroidManifest.xml:16:13-20:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->C:\Users\dam2\AndroidStudioProjects\PELIS_API_KOTLIN\app\src\main\AndroidManifest.xml:17:17-69
+29-->C:\Users\dam2\AndroidStudioProjects\PELIS_API_KOTLIN\app\src\main\AndroidManifest.xml:17:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->C:\Users\dam2\AndroidStudioProjects\PELIS_API_KOTLIN\app\src\main\AndroidManifest.xml:19:17-77
+31-->C:\Users\dam2\AndroidStudioProjects\PELIS_API_KOTLIN\app\src\main\AndroidManifest.xml:19:27-74
+32            </intent-filter>
+33        </activity>
+34        <activity android:name="com.example.pelis_api_kotlin.activityMenu" />
+34-->C:\Users\dam2\AndroidStudioProjects\PELIS_API_KOTLIN\app\src\main\AndroidManifest.xml:22:9-49
+34-->C:\Users\dam2\AndroidStudioProjects\PELIS_API_KOTLIN\app\src\main\AndroidManifest.xml:22:19-47
+35        <activity android:name="com.example.pelis_api_kotlin.activitySocio" />
+35-->C:\Users\dam2\AndroidStudioProjects\PELIS_API_KOTLIN\app\src\main\AndroidManifest.xml:23:9-50
+35-->C:\Users\dam2\AndroidStudioProjects\PELIS_API_KOTLIN\app\src\main\AndroidManifest.xml:23:19-48
+36        <activity android:name="com.example.pelis_api_kotlin.activityPelicula" />
+36-->C:\Users\dam2\AndroidStudioProjects\PELIS_API_KOTLIN\app\src\main\AndroidManifest.xml:24:9-53
+36-->C:\Users\dam2\AndroidStudioProjects\PELIS_API_KOTLIN\app\src\main\AndroidManifest.xml:24:19-51
+37        <activity android:name="com.example.pelis_api_kotlin.activityCustomSocio" />
+37-->C:\Users\dam2\AndroidStudioProjects\PELIS_API_KOTLIN\app\src\main\AndroidManifest.xml:25:9-56
+37-->C:\Users\dam2\AndroidStudioProjects\PELIS_API_KOTLIN\app\src\main\AndroidManifest.xml:25:19-54
+38
+39        <provider
+39-->[com.squareup.picasso:picasso:2.71828] C:\Users\dam2\.gradle\caches\transforms-3\c25712252695f2a5a4c247beb440a224\transformed\picasso-2.71828\AndroidManifest.xml:8:9-11:40
+40            android:name="com.squareup.picasso.PicassoProvider"
+40-->[com.squareup.picasso:picasso:2.71828] C:\Users\dam2\.gradle\caches\transforms-3\c25712252695f2a5a4c247beb440a224\transformed\picasso-2.71828\AndroidManifest.xml:9:13-64
+41            android:authorities="com.example.pelis_api_kotlin.com.squareup.picasso"
+41-->[com.squareup.picasso:picasso:2.71828] C:\Users\dam2\.gradle\caches\transforms-3\c25712252695f2a5a4c247beb440a224\transformed\picasso-2.71828\AndroidManifest.xml:10:13-72
+42            android:exported="false" />
+42-->[com.squareup.picasso:picasso:2.71828] C:\Users\dam2\.gradle\caches\transforms-3\c25712252695f2a5a4c247beb440a224\transformed\picasso-2.71828\AndroidManifest.xml:11:13-37
+43        <provider
+43-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dam2\.gradle\caches\transforms-3\0598df94f460c67e853f90789c9d40d1\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+44            android:name="androidx.startup.InitializationProvider"
+44-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dam2\.gradle\caches\transforms-3\0598df94f460c67e853f90789c9d40d1\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+45            android:authorities="com.example.pelis_api_kotlin.androidx-startup"
+45-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dam2\.gradle\caches\transforms-3\0598df94f460c67e853f90789c9d40d1\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+46            android:exported="false" >
+46-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dam2\.gradle\caches\transforms-3\0598df94f460c67e853f90789c9d40d1\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+47            <meta-data
+47-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dam2\.gradle\caches\transforms-3\0598df94f460c67e853f90789c9d40d1\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+48                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+48-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dam2\.gradle\caches\transforms-3\0598df94f460c67e853f90789c9d40d1\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+49                android:value="androidx.startup" />
+49-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dam2\.gradle\caches\transforms-3\0598df94f460c67e853f90789c9d40d1\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+50            <meta-data
+50-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\dam2\.gradle\caches\transforms-3\c4217aea2ca3d9a23241dc893df048d3\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+51                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+51-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\dam2\.gradle\caches\transforms-3\c4217aea2ca3d9a23241dc893df048d3\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+52                android:value="androidx.startup" />
+52-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\dam2\.gradle\caches\transforms-3\c4217aea2ca3d9a23241dc893df048d3\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+53        </provider>
+54    </application>
+55
+56</manifest>

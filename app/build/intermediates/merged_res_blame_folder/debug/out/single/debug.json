@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_logo_palomitas.png.flat",
+        "source": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\src\\main\\res\\drawable-xxxhdpi\\logo_palomitas.png"
+    },
+    {
+        "merged": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\build\\intermediates\\merged_res\\debug\\layout_login_activity.xml.flat",
+        "source": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\src\\main\\res\\layout\\login_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_camara.png.flat",
+        "source": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\src\\main\\res\\drawable-mdpi\\camara.png"
+    },
+    {
+        "merged": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_logo_palomitas.png.flat",
+        "source": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\src\\main\\res\\drawable-mdpi\\logo_palomitas.png"
+    },
+    {
+        "merged": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\build\\intermediates\\merged_res\\debug\\layout_item_peliculas.xml.flat",
+        "source": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\src\\main\\res\\layout\\item_peliculas.xml"
+    },
+    {
+        "merged": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_camara.png.flat",
+        "source": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\src\\main\\res\\drawable-hdpi\\camara.png"
+    },
+    {
+        "merged": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_camara.png.flat",
+        "source": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\src\\main\\res\\drawable-xxxhdpi\\camara.png"
+    },
+    {
+        "merged": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_camara.png.flat",
+        "source": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\src\\main\\res\\drawable-xxhdpi\\camara.png"
+    },
+    {
+        "merged": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_logo_palomitas.png.flat",
+        "source": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\src\\main\\res\\drawable-xhdpi\\logo_palomitas.png"
+    },
+    {
+        "merged": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\build\\intermediates\\merged_res\\debug\\layout_muestra_socios_activity.xml.flat",
+        "source": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\src\\main\\res\\layout\\muestra_socios_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\build\\intermediates\\merged_res\\debug\\layout_item_socios.xml.flat",
+        "source": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\src\\main\\res\\layout\\item_socios.xml"
+    },
+    {
+        "merged": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\build\\intermediates\\merged_res\\debug\\layout_custom_soc_activity.xml.flat",
+        "source": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\src\\main\\res\\layout\\custom_soc_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_logo_palomitas.png.flat",
+        "source": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\src\\main\\res\\drawable-xxhdpi\\logo_palomitas.png"
+    },
+    {
+        "merged": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_logo_palomitas.png.flat",
+        "source": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\src\\main\\res\\drawable-hdpi\\logo_palomitas.png"
+    },
+    {
+        "merged": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_camara.png.flat",
+        "source": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\src\\main\\res\\drawable-xhdpi\\camara.png"
+    },
+    {
+        "merged": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\build\\intermediates\\merged_res\\debug\\layout_muestra_peliculas_activity.xml.flat",
+        "source": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\src\\main\\res\\layout\\muestra_peliculas_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\build\\intermediates\\merged_res\\debug\\layout_menu_opciones_activity.xml.flat",
+        "source": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\src\\main\\res\\layout\\menu_opciones_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\dam2\\AndroidStudioProjects\\PELIS_API_KOTLIN\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    }
+]

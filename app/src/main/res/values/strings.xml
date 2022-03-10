@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">PELIS_API_KOTLIN</string>
+    <string name="login_usuario">Nombre de usuario:</string>
+    <string name="login_contrasena">Contraseña:</string>
+    <string name="username">username</string>
+
+    <string name="password">password</string>
+
+    <string name="login">Login</string>
+
+    <string name="bienvenido_username">Bienvenido username</string>
+
+    <string name="titulo">Titulo</string>
+
+    <string name="gesti_n_socios">Gestión Socios</string>
+
+    <string name="peliculas">Peliculas</string>
+
+    <string name="id">ID:</string>
+
+    <string name="user">User:</string>
+
+    <string name="nif">NIF:</string>
+
+    <string name="tel_fono">Teléfono:</string>
+    <string name="refrescar">Refrescar</string>
+    <string name="put">PUT</string>
+    <string name="delete">DELETE</string>
+    <string name="post">POST</string>
+    <string name="tfl">teléfono</string>
+    <string name="idsocio">IDSocio</string>
+    <string name="nif_soc">NIF</string>
+    <string name="userid">userID</string>
+    <string name="nuevo_socio">Nuevo Socio</string>
+</resources>
